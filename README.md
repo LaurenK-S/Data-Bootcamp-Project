@@ -18,4 +18,39 @@ To cover all the current salaries of the employees including bonus, the company 
 Solution Using PowerBI: 
 <img width="155" alt="Q2" src="https://github.com/user-attachments/assets/be5cfa9b-4b83-4b34-b7f3-d85ecc651aff" />
 
+### Q3. How much could the bonuses add to the salary cost?
+Solution Using PowerBI:
+
+<img width="179" alt="Screenshot 2025-05-07 015815" src="https://github.com/user-attachments/assets/b56ba599-8c93-4860-81c4-90c7da7b1768" />
+
+<img width="137" alt="Screenshot 2025-05-07 015954" src="https://github.com/user-attachments/assets/5977fa1a-2306-4d99-b2f5-17f43338da10" />
+
+### Q4. How many Employees are based in each country?
+Solution using Excel:
+
+To work this out the following formulas were used: =COUNTIF(N2:N993, "China"), =COUNTIF(N2:N993, "United States"), =COUNTIF(N2:N993, "Brazil").  
+
+![Screenshot 2025-05-07 020552](https://github.com/user-attachments/assets/9c5e9b1b-1804-4c59-a964-27728b2b6e9d)
+
+Solution Using Tableau:
+This chart shows the count of employees in each city. 
+
+![Screenshot 2025-05-07 020752](https://github.com/user-attachments/assets/ca20bb89-4290-41b0-88e5-8b3350a02146)
+
+### Q5. What is the average age and salary for each country?
+
+Solution using PowerBI:
+
+![Screenshot 2025-03-13 120052](https://github.com/user-attachments/assets/2434ed97-0965-4ee0-ac8f-16b2b26e5308)
+
+
+
+
+
+
+
+
+
+
+
 
